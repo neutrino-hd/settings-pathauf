@@ -1196,7 +1196,7 @@
 			<S i="23eb" n="RADIO ALFA" v="0" a="797" p="a9" pmt="50d" tx="0" t="2" vt="0" s="0" num="116" f="2"/>
 			<S i="23ee" n="BEUR FM" v="0" a="799" p="a9" pmt="50d" tx="0" t="2" vt="0" s="0" num="96" f="4"/>
 		</TS>
-		<TS id="000b" on="0085" frq="12382000" inv="2" sr="27500000" fec="11" pol="0" mod="0" sys="1">
+		<TS id="000b" on="0085" frq="12382000" inv="2" sr="27500000" fec="3" pol="0" mod="9" sys="1">
 			<S i="006d" n="Eurosport 2 HD" v="7ff" a="803" p="7ff" pmt="67" tx="0" t="19" vt="1" s="1" num="1030" f="1"/>
 			<S i="0071" n="History HD" v="2ff" a="303" p="2ff" pmt="62" tx="0" t="19" vt="1" s="1" num="88" f="4"/>
 			<S i="0074" n="Sky Cinema Action HD" v="3ff" a="403" p="3ff" pmt="63" tx="0" t="19" vt="1" s="1" num="28" f="2"/>

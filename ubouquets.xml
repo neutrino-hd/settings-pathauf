@@ -67,7 +67,7 @@
 		<S i="10e" t="6" on="85" s="192" frq="11914" n="Eurosport360HD 1"/>
 		<S i="118" t="d" on="85" s="192" frq="11992" n="Eurosport360HD 2"/>
 	</Bouquet>
-	<Bouquet name="Sky Sport Feeds">
+	<Bouquet name="Sport Feeds">
 		<S i="81" t="6" on="85" s="192" frq="11914" n="Sky Sport 1 HD"/>
 		<S i="72" t="d" on="85" s="192" frq="11992" n="Sky Sport 2 HD"/>
 		<S i="10c" t="6" on="85" s="192" frq="11914" n="Sky Sport 3 HD"/>
@@ -80,8 +80,6 @@
 		<S i="152" t="10" on="85" s="192" frq="11798" n="Sky Sport 10 HD"/>
 		<S i="102" t="b" on="85" s="192" frq="12382" n="Sky Sport 11 HD"/>
 		<S i="229" t="10" on="85" s="192" frq="11798" n="Sky Sport UHD"/>
-	</Bouquet>
-	<Bouquet name="Sky Sport Bundesliga Feeds">
 		<S i="69" t="c" on="85" s="192" frq="12304" n="Sky Sport Bundesliga 1 HD"/>
 		<S i="10b" t="6" on="85" s="192" frq="11914" n="Sky Sport Bundesliga 2 HD"/>
 		<S i="115" t="d" on="85" s="192" frq="11992" n="Sky Sport Bundesliga 3 HD"/>
@@ -93,8 +91,6 @@
 		<S i="151" t="10" on="85" s="192" frq="11798" n="Sky Sport Bundesliga 9 HD"/>
 		<S i="101" t="b" on="85" s="192" frq="12382" n="Sky Sport Bundesliga 10 HD"/>
 		<S i="228" t="10" on="85" s="192" frq="11798" n="Sky Sport Bundesliga UHD"/>
-	</Bouquet>
-	<Bouquet name="Eurosport360HD Feeds">
 		<S i="10e" t="6" on="85" s="192" frq="11914" n="Eurosport360HD 1"/>
 		<S i="118" t="d" on="85" s="192" frq="11992" n="Eurosport360HD 2"/>
 		<S i="122" t="c" on="85" s="192" frq="12304" n="Eurosport360HD 3"/>
